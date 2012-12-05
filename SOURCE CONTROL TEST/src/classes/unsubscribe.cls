@@ -24,7 +24,7 @@ unsubMe = mySubject.contains(s);
  
  // If unsubscribe is found in the subject line enter the if statement
  
- if (unsubMe == true) {
+ if (unsdubMe == true) {
  	
  	try {
  		
